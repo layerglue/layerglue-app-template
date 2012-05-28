@@ -1,6 +1,6 @@
-#Layerglue Site Template
+#Layerglue Web Application Template
 
-Base HTML & Javascript site template built on Backbone.js.
+HTML5 & JavaScript application template, built on Backbone.js.
 
 ##Build tools
 
