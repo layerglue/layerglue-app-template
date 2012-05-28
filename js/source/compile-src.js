@@ -1,0 +1,7 @@
+//@codekit-append "js/source/main.js"
+//@codekit-append "js/source/src/App/constants/PageConstants.js"
+//@codekit-append "js/source/src/App/routers/AppRouter.js"
+//@codekit-append "js/source/src/App/views/SiteView.js"
+//@codekit-append "js/source/src/App/views/controls/ProgressBar.js"
+//@codekit-append "js/source/src/App/views/pages/PreloaderPageView.js"
+//@codekit-append "js/source/src/App/views/pages/HomePageView.js"
