@@ -1,6 +1,6 @@
 #Layerglue Web Application Template
 
-Layerglue is a JavaScript application framework that comes bundled with a best practice template. Based on Backbone.js and its inherent MVC architecture, Layerglue provides an unintrusive minimal project structure for HTML5 applications. Includes support for automatic convention based asset loading, and a sophisiticated animation sequenver that ties into a the hash based navigation system.
+Layerglue is a JavaScript application framework that comes bundled with a best practice template. Based on Backbone.js and its inherent MVC architecture, Layerglue provides an unintrusive minimal project structure for HTML5 applications. Includes support for automatic convention based asset loading, and a sophisiticated animation sequencer that ties into a the hash based navigation system.
 
 
 ##Build tools
